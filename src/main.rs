@@ -1,5 +1,4 @@
 use std::io::stdin;
-use zmq::Socket;
 use zmq::{self, Context};
 fn main() {
     println!("welcome to the video streamer! ");
